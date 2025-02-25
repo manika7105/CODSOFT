@@ -4,59 +4,32 @@ This repository contains the projects I developed during my internship at CodSof
 
 ## Table of Contents
 
-* [Project 1: Project Name](#project-1-project-name)
+* [Project 1: To-Do List](#project-1-to-do-list)
 * [Project 2: Project Name](#project-2-project-name)
 * [Project 3: Project Name](#project-3-project-name)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
 
-## Project 1: Project Name
+## Project 1: To-Do List
 
-[Provide a concise and engaging description of the project. What problem does it solve? What are its key features?  Be specific!  A good description is usually 2-3 sentences.]
-
-**Example:** This project is a web application that predicts customer churn using machine learning algorithms. It utilizes historical customer data to identify at-risk customers, allowing businesses to implement targeted retention strategies.  Key features include data visualization, model performance evaluation, and a user-friendly interface.
-
-[If applicable, include a screenshot or GIF of the project.]
-
-[If the project has multiple files/folders, briefly explain the structure.]
-project_1/
-├── data/
-│   └── customer_data.csv
-├── src/
-│   └── main.py
-└── README.md
-
-[If there are specific instructions for running the project, include them here.  Be clear and detailed.]
-
-**Example:**
-
-1. Clone the repository: `git clone https://github.com/your-username/CODSOFT.git`
-2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the application: `python src/main.py`
+The To-Do List Application is a simple yet efficient task management tool that helps users organize their daily tasks with ease. It allows users to add, update, delete, and mark tasks as completed, ensuring better productivity and task tracking. With an interactive command-line interface, the app provides a seamless user experience for managing tasks effortlessly.
 
 ## Project 2: Project Name
 
-[Follow the same structure as Project 1 for each of your projects.]
+[Provide a concise and engaging description of the above project. What problem does it solve? What are its key features?  Be specific!  A good description is usually 2-3 sentences.]
 
 ## Project 3: Project Name
 
-[Follow the same structure as Project 1 for each of your projects.]
+[Provide a concise and engaging description of the above project. What problem does it solve? What are its key features?  Be specific!  A good description is usually 2-3 sentences.]
 
 ## Technologies Used
 
-[List the technologies, languages, frameworks, and libraries you used in your projects.  This helps others understand the technical stack.]
-
-**Example:**
-
+[List the technologies, languages, frameworks, and libraries you used in your projects.]
 * Python
-* Pandas
-* Scikit-learn
-* Flask (if it's a web app)
-* HTML/CSS (if it's a web app)
-* Git
 
 ## Contact
 
-[Your Name]
-[Your Email Address]
-[Your LinkedIn Profile (Optional)]
+*   **Name:** Manika Goel
+*   **LinkedIn:** www.linkedin.com/in/manika-goel-92201a286
+*   **GitHub:** https://github.com/manika7105
+*   **E-mail:** manikagoel07@gmail.com

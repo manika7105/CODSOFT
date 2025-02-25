@@ -15,9 +15,11 @@ This repository contains the projects I developed during my internship at CodSof
 ## Project 1: To-Do List 
 
 📌 Task Overview:  
+
 A **To-Do List Application📝** is a useful project that helps users manage and organize their tasks efficiently. This project involved creating a command-line application using Python, allowing users to add, update, delete, mark tasks as completed, and display their to-do list seamlessly.  
 
 🛠️ Features:  
+
 ✅ **Add a Task** – Users can add new tasks to their list.  
 ✅ **Show Tasks** – Displays all tasks with their completion status.  
 ✅ **Update a Task** – Modify an existing task.  

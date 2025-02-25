@@ -7,6 +7,8 @@ This repository contains the projects I developed during my internship at CodSof
 * [Project 1: To-Do List](#project-1-to-do-list)
 * [Project 2: Project Name](#project-2-project-name)
 * [Project 3: Project Name](#project-3-project-name)
+* [Project 4: Project Name](#project-4-project-name)
+* [Project 5: Project Name](#project-5-project-name)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
 
@@ -45,9 +47,17 @@ This task helped me refine my Python skills, particularly in lists, dictionaries
 
 
 
+## Project 4: Project Name
+
+
+
+## Project 5: Project Name
+
+
+
 ## Technologies Used
 
-[List the technologies, languages, frameworks, and libraries you used in your projects.]
+[Technologies, languages, frameworks, and libraries used in the projects.]
 * Python
 
 ## Contact

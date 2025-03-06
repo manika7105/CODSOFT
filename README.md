@@ -52,11 +52,11 @@ The goal was to design a simple calculator that can perform basic arithmetic ope
 
 🛠️ Features:
 
-✅ Addition (+) – Adds two numbers.
-✅ Subtraction (-) – Subtracts one number from another.
-✅ Multiplication (*) – Multiplies two numbers.
-✅ Division (/) – Divides one number by another, ensuring no division by zero error.
-✅ User Input Handling – Ensures correct inputs and provides a smooth experience.
+✅ Addition (+) – Adds two numbers.    
+✅ Subtraction (-) – Subtracts one number from another.  
+✅ Multiplication (*) – Multiplies two numbers.  
+✅ Division (/) – Divides one number by another, ensuring no division by zero error.  
+✅ User Input Handling – Ensures correct inputs and provides a smooth experience.  
 
 This task helped me strengthen my understanding of conditional statements, user input handling, arithmetic operations, and program flow in Python.
 
@@ -87,10 +87,10 @@ A Password Generator is a powerful tool that helps users create strong and rando
 
 🛠️ Features:
 
-✅ User Input – Allows users to specify the desired password length.
-✅ Random Password Generation – Uses a mix of uppercase, lowercase, numbers, and special characters.
-✅ Custom Complexity – Ensures strong and unpredictable passwords.
-✅ Instant Display – Generates and displays the password immediately.
+✅ User Input – Allows users to specify the desired password length.  
+✅ Random Password Generation – Uses a mix of uppercase, lowercase, numbers, and special characters.  
+✅ Custom Complexity – Ensures strong and unpredictable passwords.  
+✅ Instant Display – Generates and displays the password immediately.  
 
 This task helped me improve my understanding of randomization, string manipulation, and user input handling in Python.
 

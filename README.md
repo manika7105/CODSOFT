@@ -9,7 +9,6 @@ This repository contains the projects I developed during my internship at CodSof
 * [Project 3: Password Generator](#project-3-password-generator)
 * [Project 4: Project Name](#project-4-project-name)
 * [Project 5: Project Name](#project-5-project-name)
-* [Technologies Used](#technologies-used)
 * [Contact](#contact)
 
 ## Project 1: To-Do List 
@@ -121,10 +120,6 @@ This task helped me improve my understanding of randomization, string manipulati
 
 
 
-## Technologies Used
-
-[Technologies, languages, frameworks, and libraries used in the projects.]
-* Python
 
 ## Contact
 

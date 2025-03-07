@@ -1,6 +1,6 @@
 # **CODSOFT Internship Projects**
 
-This repository contains the projects I developed during my internship at CodSoft.  It showcases my skills in Python programming.
+This repository contains the projects I developed during my internship at CodSoft. It showcases my Python programming skills through various applications. 
 
 ## Table of Contents
 

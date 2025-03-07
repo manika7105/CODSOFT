@@ -7,8 +7,8 @@ This repository contains the projects I developed during my internship at CodSof
 * [Project 1: To-Do List](#project-1-to-do-list)
 * [Project 2: Calculator](#project-2-calculator)
 * [Project 3: Password Generator](#project-3-password-generator)
-* [Project 4: Project Name](#project-4-project-name)
-* [Project 5: Project Name](#project-5-project-name)
+* [Project 4: Rock-Paper-Scissors Game](#project-4-rock-paper-scissors-game)
+* [Project 5: Contact Book](#project-5-contact-book)
 * [Contact](#contact)
 
 ## Project 1: To-Do List 
@@ -112,12 +112,77 @@ This task helped me improve my understanding of randomization, string manipulati
 3.  **Enter the desired password length** and let the program generate a strong password instantly.
 
 
-## Project 4: Project Name
+## Project 4: Rock-Paper-Scissors Game  
+
+### 📌 Task Overview:  
+The classic Rock-Paper-Scissors Game is a fun and interactive way to apply Python programming concepts. The goal was to develop a command-line application where the user competes against the computer in a fair, randomized game.
+
+### 🛠️ Features:  
+✅ User Input – Allows the player to choose rock, paper, or scissors.  
+✅ Computer Selection – Randomly generates a choice for the computer.  
+✅ Game Logic – Determines the winner based on standard rules:  
+* Rock beats Scissors 🪨✂  
+* Scissors beat Paper ✂📄  
+* Paper beats Rock 📄🪨  
+✅ Result Display – Shows the choices and announces the winner.  
+✅ Score Tracking – Keeps track of the user's and computer’s scores.  
+✅ Play Again Option – Allows multiple rounds of gameplay.  
+✅ User-Friendly Interface – Provides clear instructions and feedback.
+
+This project helped me strengthen my skills in randomization, conditional statements, loops, and user interaction in Python.
+
+### 🔧 Technologies Used:  
+
+* **Python:** For core program logic and execution.
+* **Random Module:** Uses ```random.choice()``` to let the computer pick rock, paper, or scissors.
+* **User Input Handling:** Uses ```input()``` to get the user's choice.
+* **Conditional Statements:** ```if-elif-else``` to determine the game outcome.
+* **Looping:** ```while True``` to keep the game running until the user decides to quit.
+* **Score Tracking:** Keeps track of the user's and computer's scores.
+
+### 🚀 How to Run:  
+
+1.  **Clone the repository:**
+    git clone https://github.com/manika7105/Rock-Paper-Scissors-Game.git
+
+2.  **Run the script:**
+    python RockPaperScissors.py
+
+3.  **Enter rock, paper, or scissors,** the computer will randomly choose, the result will be displayed with score tracking, and type **quit** to exit and see the final scores. 
 
 
+## Project 5: Contact Book
 
-## Project 5: Project Name
+### 📌 Task Overview:
+The Contact Book application is a simple yet powerful tool for storing, managing, and searching contacts efficiently. The goal of this project was to create a user-friendly system to handle contact details such as names, phone numbers, emails, and addresses.
 
+### 🛠️ Features: 
+✅ Add Contact – Allows users to store new contacts with all necessary details.  
+✅ View Contact List – Displays all saved contacts with names and phone numbers.  
+✅ Search Contact – Users can quickly find contacts by name or phone number.  
+✅ Update Contact – Enables editing and updating contact details.  
+✅ Delete Contact – Provides an option to remove unwanted contacts.  
+✅ User-Friendly Interface – Ensures smooth navigation and easy interaction.  
+
+This project helped me enhance my data handling, file storage, search algorithms, and CRUD operations in Python.
+
+### 🔧 Technologies Used:  
+
+* **Python:** For core program logic and execution.
+* **Lists and Dictionaries:** Stores and manages contact details.
+* **User Input Handling:** Uses ```input()``` to add, search, update, and delete contacts.
+* **Conditional Statements:** ```if-elif-else``` for menu-driven functionality.
+* **Looping:** ```while True``` keeps the application running until the user exits. 
+
+### 🚀 How to Run: 
+
+1.  **Clone the repository:**
+    git clone https://github.com/manika7105/Contact-Book.git
+
+2.  **Run the script:**
+    python ContactBook.py
+
+3.  **Enter a choice from the menu,** add, view, search, update, or delete contacts by providing the required details, and select **Exit (6)** to close the application. 
 
 
 

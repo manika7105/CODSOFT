@@ -4,16 +4,16 @@ This repository contains the projects I developed during my internship at CodSof
 
 ## Table of Contents
 
-* [Project 1: To-Do List](#project-1-to-do-list)
-* [Project 2: Calculator](#project-2-calculator)
-* [Project 3: Password Generator](#project-3-password-generator)
-* [Project 4: Rock-Paper-Scissors Game](#project-4-rock-paper-scissors-game)
-* [Project 5: Contact Book](#project-5-contact-book)
+* [Project 1: To-Do List📝](#project-1-to-do-list)
+* [Project 2: Calculator🧮](#project-2-calculator)
+* [Project 3: Password Generator🔐](#project-3-password-generator)
+* [Project 4: Rock-Paper-Scissors Game🎮](#project-4-rock-paper-scissors-game)
+* [Project 5: Contact Book📖](#project-5-contact-book)
 * [🚀 Conclusion / Summary](#-conclusion--summary)
 * [🔥 Future Improvements](#-future-improvements)
 * [📞 Contact](#-contact)
 
-## Project 1: To-Do List 
+## Project 1: To-Do List📝
 
 ### 📌 Task Overview:  
 
@@ -47,7 +47,7 @@ A **To-Do List Application📝** helps users manage tasks efficiently. This comm
 3.  **Follow the interactive menu** to manage your tasks.
 
 
-## Project 2: Calculator
+## Project 2: Calculator🧮
 
 ### 📌 Task Overview:
 
@@ -78,7 +78,7 @@ A simple Calculator that performs basic arithmetic operations like addition, sub
 3.  **Follow the interactive menu** to perform calculations.
 
 
-## Project 3: Password Generator
+## Project 3: Password Generator🔐
 
 ### 📌 Task Overview:
 
@@ -108,7 +108,7 @@ A Password Generator 🔒 that creates strong, random passwords based on user-de
 3.  **Enter the desired password length** and receive a strong, random password.
 
 
-## Project 4: Rock-Paper-Scissors Game  
+## Project 4: Rock-Paper-Scissors Game🎮
 
 ### 📌 Task Overview:  
 
@@ -141,7 +141,7 @@ A Rock-Paper-Scissors Game 🎮 where the user plays against the computer. The c
 3.  **Enter rock, paper, or scissors.** The computer will randomly choose, display the result, track scores, and type **quit** to exit and see the final scores.
 
 
-## Project 5: Contact Book
+## Project 5: Contact Book📖
 
 ### 📌 Task Overview:
 

@@ -13,11 +13,11 @@ This repository contains the projects I developed during my internship at CodSof
 
 ## Project 1: To-Do List 
 
-📌 Task Overview:  
+### 📌 Task Overview:  
 
 A **To-Do List Application📝** is a useful project that helps users manage and organize their tasks efficiently. This project involved creating a command-line application using Python, allowing users to add, update, delete, mark tasks as completed, and display their to-do list seamlessly.  
 
-🛠️ Features:  
+### 🛠️ Features:  
 
 ✅ **Add a Task** – Users can add new tasks to their list.  
 ✅ **Show Tasks** – Displays all tasks with their completion status.  
@@ -28,14 +28,14 @@ A **To-Do List Application📝** is a useful project that helps users manage and
 
 This task helped refine my Python skills, particularly in lists, dictionaries, functions, loops, and user interaction through the command line.  
 
-🔧 Technologies Used:  
+### 🔧 Technologies Used:  
 * **Python:** For core program logic and execution.
 * **Lists and Dictionaries:**  Uses lists and dictionaries to store tasks.
 * **User Input Handling:** Uses ```input()``` for interactive task management.
 * **Conditional Statements:** ```if-elif-else``` to handle different options.
 * **Looping:** ```while True``` to keep the program running until the user exits .
 
-🚀 How to Run:  
+### 🚀 How to Run:  
 1.  **Clone the repository:**
     git clone https://github.com/manika7105/To-Do-List.git
 
@@ -46,11 +46,11 @@ This task helped refine my Python skills, particularly in lists, dictionaries, f
 
 ## Project 2: Calculator
 
-📌 Task Overview:
+### 📌 Task Overview:
 
 The goal was to design a simple calculator that can perform basic arithmetic operations. The application prompts the user to input two numbers and choose an operation, then performs the calculation and displays the result.
 
-🛠️ Features:
+### 🛠️ Features:
 
 ✅ Addition (+) – Adds two numbers.    
 ✅ Subtraction (-) – Subtracts one number from another.  
@@ -60,7 +60,7 @@ The goal was to design a simple calculator that can perform basic arithmetic ope
 
 This task helped me strengthen my understanding of conditional statements, user input handling, arithmetic operations, and program flow in Python.
 
-🔧 Technologies Used: 
+### 🔧 Technologies Used: 
 
 * **Python:** For core program logic and execution.
 * **User Input Handling:** Uses ```input()``` to take user input.
@@ -68,7 +68,7 @@ This task helped me strengthen my understanding of conditional statements, user 
 * **Looping:** ```while True``` to allow continuous calculations.
 * **Error Handling:** Checks for division by zero. 
 
-🚀 How to Run:
+### 🚀 How to Run:
 
 1.  **Clone the repository:**
     git clone https://github.com/manika7105/Calculator.git
@@ -81,11 +81,11 @@ This task helped me strengthen my understanding of conditional statements, user 
 
 ## Project 3: Password Generator
 
-📌 Task Overview:
+### 📌 Task Overview:
 
 A Password Generator is a powerful tool that helps users create strong and random passwords for better security. The goal of this project was to build a Python-based application that allows users to specify the password length and complexity while ensuring randomness and strength.
 
-🛠️ Features:
+### 🛠️ Features:
 
 ✅ User Input – Allows users to specify the desired password length.  
 ✅ Random Password Generation – Uses a mix of uppercase, lowercase, numbers, and special characters.  
@@ -94,14 +94,14 @@ A Password Generator is a powerful tool that helps users create strong and rando
 
 This task helped me improve my understanding of randomization, string manipulation, and user input handling in Python.
 
-🔧 Technologies Used: 
+### 🔧 Technologies Used: 
 
 * **Python:** For core program logic and execution.
 * **Randomization:** Uses the ```random``` module to generate secure passwords.
 * **String Manipulation:** Utilizes Python string methods to mix characters.
 * **User Input Handling:** Allows users to specify password length and complexity.
 
-🚀 How to Run:
+### 🚀 How to Run:
 
 1.  **Clone the repository:**
     git clone https://github.com/manika7105/Password-Generator.git

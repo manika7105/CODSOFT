@@ -9,6 +9,9 @@ This repository contains the projects I developed during my internship at CodSof
 * [Project 3: Password Generator](#project-3-password-generator)
 * [Project 4: Rock-Paper-Scissors Game](#project-4-rock-paper-scissors-game)
 * [Project 5: Contact Book](#project-5-contact-book)
+* [🚀 Conclusion / Summary](#-conclusion--summary)
+* [🔥 Future Improvements](#-future-improvements)
+* [📞 Contact](#-contact)
 
 ## Project 1: To-Do List 
 

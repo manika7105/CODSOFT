@@ -197,4 +197,4 @@ These improvements would further refine the applications and make them more robu
 *   **Author:** Manika Goel
 *   **LinkedIn:** www.linkedin.com/in/manika-goel-92201a286
 *   **GitHub:** https://github.com/manika7105
-*   **E-mail:** manikagoel07@gmail.com
+*   **E-mail:** goelmanika07@gmail.com
